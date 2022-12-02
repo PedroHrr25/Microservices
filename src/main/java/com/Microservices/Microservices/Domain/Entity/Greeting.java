@@ -1,4 +1,4 @@
-package com.Microservices.Microservices.Domain;
+package com.Microservices.Microservices.Domain.Entity;
 
 public class Greeting {
 
